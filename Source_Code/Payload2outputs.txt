@@ -1,0 +1,84 @@
+128 KB
+
+Hit Ratio for GD1 is 0.044 and byte count ratio is 0.0307215
+Hit Ratio for GDF is 0.042 and byte count ratio is 0.0185929
+Hit Ratio for MAXS is 0.044 and byte count ratio is 0.0307215
+Hit Ratio for FIFO is 0.044 and byte count ratio is 0.0307215
+Hit Ratio for LFU is 0.044 and byte count ratio is 0.0307215
+Hit Ratio for LRU is 0.044 and byte count ratio is 0.0307215
+Hit Ratio for LRU_MIN is 0.648 and byte count ratio is 0.439331
+Hit Ratio for RANDOM is 0.044 and byte count ratio is 0.0307215
+
+256KB
+
+Hit Ratio for GD1 is 0.078 and byte count ratio is 0.0558753
+Hit Ratio for GDF is 0.105 and byte count ratio is 0.0593755
+Hit Ratio for MAXS is 0.066 and byte count ratio is 0.0439498
+Hit Ratio for FIFO is 0.086 and byte count ratio is 0.060993
+Hit Ratio for LFU is 0.085 and byte count ratio is 0.0605034
+Hit Ratio for LRU is 0.085 and byte count ratio is 0.0605034
+Hit Ratio for LRU_MIN is 0.753 and byte count ratio is 0.537944
+Hit Ratio for RANDOM is 0.09 and byte count ratio is 0.0638057
+
+512 KB
+
+Hit Ratio for GD1 is 0.126 and byte count ratio is 0.101127
+Hit Ratio for GDF is 0.248 and byte count ratio is 0.150117
+Hit Ratio for MAXS is 0.138 and byte count ratio is 0.103272
+Hit Ratio for FIFO is 0.122 and byte count ratio is 0.102774
+Hit Ratio for LFU is 0.125 and byte count ratio is 0.105832
+Hit Ratio for LRU is 0.125 and byte count ratio is 0.105832
+Hit Ratio for LRU_MIN is 0.918 and byte count ratio is 0.915782
+Hit Ratio for RANDOM is 0.124 and byte count ratio is 0.106759
+
+1024 KB
+
+Hit Ratio for GD1 is 0.181 and byte count ratio is 0.148776
+Hit Ratio for GDF is 0.411 and byte count ratio is 0.284236
+Hit Ratio for MAXS is 0.272 and byte count ratio is 0.179233
+Hit Ratio for FIFO is 0.185 and byte count ratio is 0.153166
+Hit Ratio for LFU is 0.183 and byte count ratio is 0.150451
+Hit Ratio for LRU is 0.183 and byte count ratio is 0.150451
+Hit Ratio for LRU_MIN is 0.881 and byte count ratio is 0.877457
+Hit Ratio for RANDOM is 0.206 and byte count ratio is 0.178862
+
+2048 KB
+
+Hit Ratio for GD1 is 0.279 and byte count ratio is 0.24317
+Hit Ratio for GDF is 0.594 and byte count ratio is 0.468398
+Hit Ratio for MAXS is 0.453 and byte count ratio is 0.31556
+Hit Ratio for FIFO is 0.401 and byte count ratio is 0.363064
+Hit Ratio for LFU is 0.429 and byte count ratio is 0.376913
+Hit Ratio for LRU is 0.429 and byte count ratio is 0.376913
+Hit Ratio for LRU_MIN is 0.934 and byte count ratio is 0.923687
+Hit Ratio for RANDOM is 0.416 and byte count ratio is 0.377746
+
+4096 KB
+
+Hit Ratio for GD1 is 0.519 and byte count ratio is 0.485459
+Hit Ratio for GDF is 0.794 and byte count ratio is 0.725722
+Hit Ratio for MAXS is 0.806 and byte count ratio is 0.63409
+Hit Ratio for FIFO is 0.694 and byte count ratio is 0.661631
+Hit Ratio for LFU is 0.738 and byte count ratio is 0.691208
+Hit Ratio for LRU is 0.738 and byte count ratio is 0.691208
+Hit Ratio for LRU_MIN is 0.889 and byte count ratio is 0.83414
+Hit Ratio for RANDOM is 0.677 and byte count ratio is 0.648078
+
+8192 KB
+
+Hit Ratio for GD1 is 0.954 and byte count ratio is 0.94964
+Hit Ratio for GDF is 0.954 and byte count ratio is 0.94964
+Hit Ratio for MAXS is 0.954 and byte count ratio is 0.94964
+Hit Ratio for FIFO is 0.954 and byte count ratio is 0.94964
+Hit Ratio for LFU is 0.954 and byte count ratio is 0.94964
+Hit Ratio for LRU is 0.954 and byte count ratio is 0.94964
+Hit Ratio for LRU_MIN is 0.954 and byte count ratio is 0.94964
+Hit Ratio for RANDOM is 0.954 and byte count ratio is 0.94964
+
+
+
+
+
+
+
+
